@@ -26,3 +26,7 @@ class Coin:
 
     def get_sideup(self):
             return self.sideup
+
+#    def toss(self):
+#        if random.randint(0,1) == 0:
+
