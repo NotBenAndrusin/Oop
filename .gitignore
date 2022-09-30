@@ -1,5 +1,10 @@
 notaVenv/
-.BankAccountClass.py
+.BankAccountClass
 .BankAccountProgram
 .Cellphone_test
 .cellphone
+.CoinToss
+.CoinClass
+.insectClass
+.insectFlight
+.passObj
