@@ -1,5 +1,5 @@
 notaVenv/
-BankAccountClass/
-BankAccountProgram/
-Cellphone_test/
-cellphone/
+.BankAccountClass
+.BankAccountProgram
+.Cellphone_test
+.cellphone
